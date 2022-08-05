@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Elijah! :blush:  
+I've recently developed an interest for the world of programming. Really excited to learn through online courses and from peers who are out there! 
 <!--
 **ElijahQuiazon/ElijahQuiazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
