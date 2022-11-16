@@ -1,8 +1,6 @@
-### Hi there 👋
 <h1>Olah!</h1>
-<p>My name is Elijah! I'm currently working towards front-end development and some data analytic skills too!</p>
-My name is Elijah! :blush:  
-I've recently developed an interest for the world of programming. Really excited to learn through online courses and from peers who are out there! 
+<p>My name is Elijah! <br>
+  My goal is to build a portfolio for front-end development along with some data analytical skills.
 <!--
 **ElijahQuiazon/ElijahQuiazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
