@@ -1,4 +1,4 @@
-<h1>Olah!</h1>
+<h1>Hello there!</h1>
 <p>My name is Elijah! <br>
   My goal is to build a portfolio for front-end development along with some data analytical skills.
 <!--
