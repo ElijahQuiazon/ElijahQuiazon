@@ -5,15 +5,15 @@
   <p> My name is Elijah and here are some facts about me!</p>
   <ol>
     <li> I'm a final-year undergraduate at Monash University :mortar_board:</li>
-    <li> Currently working in data analytics :bar_chart: </li>
-    <li> Learning front-end web development (HTML, CSS and JavaScript) :desktop_computer: </li>
+    <li> Currently working as an analyst :bar_chart: </li>
+    <li> Exploring the world of programming through web development :desktop_computer: </li>
   </ol>
  </section>
   
  <section>
   <h2>My aspirations</h2>
-  <p>I strive to become a web developer. As such, I am currently building my skills in HTML, CSS and JavaScript. Working on a personal project to reinforce my learning</p>
-  <p>Eager to take up internship opportunities in this field</p>
+  <p>I'm striving to become a self-taught software engineer. It's been an extremely challenging yet rewarding experience thus far. At the moment, I'm focusing my efforts to pick up fundamentals of web development and computer science.</p>
+  <p>Actively looking for internships and/or learning opportunities to grow as a software engineer. </p>
   
  
   
