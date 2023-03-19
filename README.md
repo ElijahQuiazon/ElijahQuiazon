@@ -6,7 +6,7 @@
   <ol>
     <li> I'm a final-year undergraduate at Monash University :mortar_board:</li>
     <li> Currently working as an IT analyst :bar_chart: </li>
-    <li> Exploring the world of programming through web development :desktop_computer: </li>
+    <li> Exploring the world of programming and computer science :desktop_computer: </li>
   </ol>
  </section>
   
