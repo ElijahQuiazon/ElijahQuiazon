@@ -12,8 +12,8 @@
   
  <section>
   <h2>My aspirations</h2>
-  <p>I'm striving to become a self-taught software engineer. It's been an extremely challenging yet rewarding experience thus far. At the moment, I'm focusing my efforts to pick up fundamentals of web development and computer science.</p>
-  <p>Actively looking for internships and/or learning opportunities to grow as a software engineer. </p>
+  <p>I'm striving to become a self-taught software developer. It's been an extremely challenging yet rewarding experience thus far. At the moment, I'm focusing my efforts to pick up fundamentals of web development and computer science.</p>
+  <p>Actively looking for internships and/or learning opportunities to grow as a software developer. </p>
   
  
   
