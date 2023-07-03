@@ -2,19 +2,21 @@
 
 <section>
   <h2>About me</h2>
-  <p> My name is Elijah and here are some facts about me!</p>
-  <ol>
-    <li> I'm a final-year undergraduate at Monash University :mortar_board:</li>
-    <li> Exploring the world of computer science :desktop_computer: </li>
-  </ol>
+  <p> My name is Elijah and I'm an aspiring software engineer! I chanced upon this field towards the end of my communications degree and have been self-teaching since! </p>
  </section>
   
  <section>
-  <h2>My aspirations</h2>
-  <p>I'm striving to become a software engineer. It's been an extremely challenging yet rewarding experience thus far. At the moment, I'm focusing my efforts to pick up fundamentals of programming and computer science.</p>
-  <p>Actively looking for internships and/or learning opportunities to grow as a software engineer. </p>
+  <h2>Current Projects</h2>
+  <p>UC Berkeley's CS61B: Data Structures</p>
+ </section>
+
+ <section>
+  <h2>Technologies</h2>
+  <p>Languages: Java, Python, SQL, JavaScript, HTML, CSS</p>
+  <p>Tools: Git, GitHub, VSCode, IntelliJ IDEA</p>
+ </section>
   
- 
+
   
 <!--
 **ElijahQuiazon/ElijahQuiazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
