@@ -2,7 +2,7 @@
 
 <section>
   <h2>About me</h2>
-  <p> My name is Elijah and I'm an aspiring software engineer! I chanced upon this field towards the end of my communications degree and have been self-teaching since! </p>
+  <p> My name is Elijah and I'm an aspiring software developer! I chanced upon this field towards the end of my communications degree and have been self-teaching since! </p>
  </section>
   
  <section>
