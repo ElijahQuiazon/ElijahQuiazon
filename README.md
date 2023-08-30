@@ -8,7 +8,6 @@
  <section>
   <h2>Current Projects</h2>
   <p>UC Berkeley's CS61B: Data Structures</p>
-  <p>Practising Data Structures & Algorithms with Leetcode</p>
   <p>Learning Java Spring</p>
   <p>The repositories for CS61A/B are currently private as per the course conduct. However, if you would like to view the projects I have created within these courses, kindly let me know and I'll make arrangements.</p>
  </section>
@@ -16,6 +15,7 @@
  <section>
   <h2>Technologies</h2>
   <p>Languages: Java, Python, SQL, JavaScript, HTML, CSS</p>
+  <p>Frameworks: Spring Boot
   <p>Tools: Git, GitHub, VSCode, IntelliJ IDEA</p>
  </section>
   
